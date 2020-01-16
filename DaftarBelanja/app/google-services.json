@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325805167709",
+    "firebase_url": "https://daftarbelanja-ceac1.firebaseio.com",
+    "project_id": "daftarbelanja-ceac1",
+    "storage_bucket": "daftarbelanja-ceac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325805167709:android:b15dc54d73dc898f20e9b4",
+        "android_client_info": {
+          "package_name": "com.example.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325805167709-3g70jjfss5vs800rm7aq1k6uouv5l8f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daftarbelanja",
+            "certificate_hash": "4bd733a4c8095c1c37a7b39f2eba88dc3ad8ce94"
+          }
+        },
+        {
+          "client_id": "325805167709-tlg5fhorv7f12h2nb69mb6v9h7q6k3m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Z1EdqZ6fX4IkYFkkYH7vBl4GfaP-rXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325805167709-tlg5fhorv7f12h2nb69mb6v9h7q6k3m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
