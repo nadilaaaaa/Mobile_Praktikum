@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NextActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Activity 1"
+        android:gravity="center"
+        android:layout_marginBottom="@dimen/vertical_activity"
+        android:textColor="@android:color/black"/>
+
+    <EditText
+        android:id="@+id/editdata"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/vertical_activity"
+        android:layout_marginLeft="@dimen/horizontal_activity"
+        android:layout_marginRight="@dimen/horizontal_activity"
+        android:inputType="text"
+        android:lines="1" />
+
+    <Button
+        android:id="@+id/btnmasuk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editdata"
+        android:layout_marginLeft="@dimen/horizontal_activity"
+        android:layout_marginRight="@dimen/horizontal_activity"
+        android:layout_marginTop="@dimen/vertical_activity"
+        android:text="Lanjut"/>
+
+</RelativeLayout>
