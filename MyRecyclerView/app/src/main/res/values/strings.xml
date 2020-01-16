@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">pertemuan6</string>
+    <string name="nama_buah">Nama Buah Segar</string>
+    <string name="deskripsi_Buah">Deskripsi Buah</string>
+    <string name="buahbuahan">Bikin Sehat</string>
+
+    <string-array name="data_name">
+
+        <item>Jeruk</item>
+        <item>Semangka</item>
+        <item>Delima</item>
+        <item>Nanas</item>
+        <item>Apel</item>
+        <item>Melon</item>
+        <item>Kurma</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Jeruk atau limau adalah semua tumbuhan berbunga anggota marga Citrus dari suku Rutaceae. Anggotanya berbentuk pohon dengan buah yang berdaging dengan rasa masam yang segar,
+            meskipun banyak di antara anggotanya yang memiliki rasa manis.</item>
+        <item>Semangka atau tembikai (Citrullus lanatus, suku ketimun-ketimunan atau Cucurbitaceae) adalah tanaman merambat yang berasal dari daerah setengah gurun di Afrika bagian selatan
+            </item>
+        <item>Delima adalah tanaman buah-buahan yang dapat tumbuh hingga 5–8 m. Tanaman ini diperkirakan berasal dari Iran, namun telah lama dikembangbiakkan di daerah Mediterania.
+            Bangsa Moor memberi nama salah satu kota kuno di Spanyol</item>
+        <item>Nanas, nenas, atau ananas (Ananas comosus (L.) Merr.) adalah sejenis tumbuhan tropis yang berasal dari Brasil, Bolivia, dan Paraguay Tumbuhan ini termasuk
+            dalam familia nanas-nanasan (Famili Bromeliaceae).</item>
+        <item>Apel adalah jenis buah-buahan, atau buah yang dihasilkan dari pohon buah apel. Buah apel biasanya berwarna merah kulitnya jika masak dan,
+            namun bisa juga kulitnya berwarna hijau atau kuning.</item>
+        <item>Melon (Cucumis melo L.) merupakan nama buah sekaligus tanaman yang menghasilkannya, yang termasuk dalam suku labu-labuan atau Cucurbitaceae.</item>
+        <item>Kurma, (Arab: تمر‎, Tamr; nama latin Phoenix dactylifera) adalah tanaman palma (Arecaceae) dalam genus Phoenix, buahnya dapat dimakan.</item>
+    </string-array>
+    <string-array name="photo">
+
+        <item>https://athisa88.files.wordpress.com/2015/05/jeruk.jpg</item>
+        <item>https://img-z.okeinfo.net/library/images/2018/09/22/itxwi2ue55edsbyq333x_13682.jpg</item>
+        <item>https://s3.bukalapak.com/img/853955542/w-1000/12-Manfaat-Buah-Delima-Merah-Yang-Perlu-Anda-Tahu.png</item>
+        <item>https://cdn2.tstatic.net/palembang/foto/bank/images/nanas1_20180510_222127.jpg</item>
+        <item>https://infobuah.com/wp-content/uploads/2018/11/Buah-Apel.jpg</item>
+        <item>https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/03/04/3810900293.jpg</item>
+        <item>https://ilmubudidaya.com/wp-content/uploads/2017/09/kurma-300x207.jpg</item>
+    </string-array>
+</resources>
