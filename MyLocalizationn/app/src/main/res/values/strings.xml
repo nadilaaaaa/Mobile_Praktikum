@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" tools:ignore="MissingTranslation">MyLocalizationApp</string>
+
+    <string name="football">Indonesia Nationak Team win against Thailand National Team</string>
+    <string name="goal">Goal from Indonesia scored by %1$s and %2$s, so the final score is %3$d - %4$d
+    for Indonesia victory</string>
+
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d song found</item>
+        <item quantity="other">%d song found</item>
+    </plurals>
+
+    <string name="app_homeurl">
+        Visit us at <xliff:g id="homepage">https://www.ittelkom-pwt.ac.id</xliff:g>
+    </string>
+
+
+    <string name="change_language_settings">
+        Change Language Settings</string>
+
+    <string name="tab_text1">Home</string>
+    <string name="tab_text2">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" tools:ignore="MissingTranslation">Hello blank fragment</string>
+    <string name="nama" translatable="false">Name           : Nurul Adila</string>
+    <string name="alamat" translatable="false">Address      : Cheater City</string>
+    <string name="hobby" translatable="false">Hobby         : Shooping</string>
+    <string name="quotes" translatable="false">Quotes       : I can only of had, what can be explained as a change of heart.</string>
+
+</resources>
