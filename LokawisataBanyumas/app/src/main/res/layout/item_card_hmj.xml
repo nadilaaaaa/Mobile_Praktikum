@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="10dp"
+    android:background="@drawable/lagu"
+    android:id="@+id/cardview_item">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorSeaGreen">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img_hmj_list"
+            android:layout_width="300px"
+            android:layout_height="300px"
+            android:layout_marginLeft="25px"
+            android:layout_marginTop="35px" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20px"
+            android:layout_marginTop="25px"
+            android:layout_marginRight="20px"
+            android:layout_marginBottom="25px"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/name_hmj_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Nama HM"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/desc_hmj_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:text="Description"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
